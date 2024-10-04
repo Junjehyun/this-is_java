@@ -1,4 +1,4 @@
-package part01.chapter02;
+package part01.chapter02.section01;
 
 public class Variable {
 

@@ -1,4 +1,4 @@
-package part01.chapter02;
+package part01.chapter02.section02;
 
 public class IntegerType {
     /**
